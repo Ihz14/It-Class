@@ -3,3 +3,4 @@ informatic class hmpi
 * Figma
 - PHP
 - Phython
+- Javascript
