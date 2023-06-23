@@ -6,3 +6,5 @@ informatic class hmpi
 - Javascript
 - C++
 - CSS
+- Dark
+
