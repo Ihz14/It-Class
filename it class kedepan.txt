@@ -4,3 +4,4 @@ informatic class hmpi
 - PHP
 - Phython
 - Javascript
+- C++
