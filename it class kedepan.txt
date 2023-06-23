@@ -5,3 +5,4 @@ informatic class hmpi
 - Phython
 - Javascript
 - C++
+- CSS
